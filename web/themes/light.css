@@ -21,9 +21,9 @@ html[data-theme="light"] {
   --color-components-tooltip-bg: #FFFFFFF2;
 
   --color-components-button-primary-text: #FFFFFF;
-  --color-components-button-primary-bg: #155AEF;
+  --color-components-button-primary-bg: #2b2f37;
   --color-components-button-primary-border: #1018280A;
-  --color-components-button-primary-bg-hover: #004AEB;
+  --color-components-button-primary-bg-hover: #5a5d65;
   --color-components-button-primary-border-hover: #10182814;
   --color-components-button-primary-bg-disabled: #155AEF24;
   --color-components-button-primary-border-disabled: #FFFFFF00;
@@ -87,8 +87,8 @@ html[data-theme="light"] {
 
   --color-components-checkbox-icon: #FFFFFF;
   --color-components-checkbox-icon-disabled: #D0D5DC;
-  --color-components-checkbox-bg: #155AEF;
-  --color-components-checkbox-bg-hover: #004AEB;
+  --color-components-checkbox-bg: #3d4046;
+  --color-components-checkbox-bg-hover: #56575b;
   --color-components-checkbox-bg-disabled: #F2F4F7;
   --color-components-checkbox-border: #D0D5DC;
   --color-components-checkbox-border-hover: #98A2B2;
@@ -108,8 +108,8 @@ html[data-theme="light"] {
 
   --color-components-toggle-knob: #FFFFFF;
   --color-components-toggle-knob-disabled: #FFFFFFF2;
-  --color-components-toggle-bg: #155AEF;
-  --color-components-toggle-bg-hover: #004AEB;
+  --color-components-toggle-bg: #656a76;
+  --color-components-toggle-bg-hover: #a6a7aa;
   --color-components-toggle-bg-disabled: #D1E0FF;
   --color-components-toggle-bg-unchecked: #E9EBF0;
   --color-components-toggle-bg-unchecked-hover: #D0D5DC;
@@ -320,7 +320,7 @@ html[data-theme="light"] {
   --color-workflow-canvas-workflow-dot-color: #8585AD26;
   --color-workflow-canvas-workflow-bg: #F2F4F7;
 
-  --color-workflow-link-line-active: #296DFF;
+  --color-workflow-link-line-active: #989a9f;
   --color-workflow-link-line-normal: #D0D5DC;
   --color-workflow-link-line-handle: #296DFF;
 

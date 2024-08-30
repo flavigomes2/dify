@@ -12,8 +12,8 @@ html[data-theme="dark"] {
   --color-components-input-text-disabled: #C8CEDA4D;
   --color-components-input-text-filled-disabled: #C8CEDA99;
   --color-components-input-border-hover: #3A3A40;
-  --color-components-input-border-active-prompt-1: #36BFFA;
-  --color-components-input-border-active-prompt-2: #296DFF;
+  --color-components-input-border-active-prompt-1: #bcc6c9;
+  --color-components-input-border-active-prompt-2: #55585d;
 
   --color-components-kbd-bg-gray: #FFFFFF08;
   --color-components-kbd-bg-white: #FFFFFF1F;
