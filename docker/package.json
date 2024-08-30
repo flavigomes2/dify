@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "swr": "^2.2.5",
+    "use-context-selector": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.5"
+  }
+}
